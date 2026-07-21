@@ -1,4 +1,4 @@
-# Lab 01 – Create a Microsoft Purview DLP Policy
+# Lab 01 – Create and Test a Microsoft Purview DLP Policy
 
 ## Objective
 
