@@ -185,32 +185,6 @@ Security Investigation
 
 ---
 
-# Folder Structure
-
-```text
-Lab-03-Microsoft-Teams-Chat-DLP
-│
-├── README.md
-├── architecture.png
-└── screenshots
-    ├──01-policy-name.png
-    ├──02-policy-locations.png
-    ├──03-rule-condition.png
-    ├──04-rule-actions.png
-    ├──05-user-notifications.png
-    ├──06-policy-review.png
-    ├──07-policy-sync-completed.png
-    ├──08-compose-sensitive-message.png
-    ├──09-policy-tip-displayed.png
-    ├──10-message-blocked.png
-    ├──11-teams-chat-result.png
-    ├──12-alert-generated.png
-    ├──13-alert-details.png
-    └──14-activity-explorer.png
-```
-
----
-
 # Screenshots
 # Implementation
 
@@ -606,32 +580,6 @@ Throughout this lab, the following Microsoft Purview DLP skills were demonstrate
 - Microsoft Purview automatically generates alerts for policy violations.
 - Activity Explorer provides detailed visibility into DLP events for investigation and auditing.
 - End-to-end testing validates both policy configuration and enforcement behavior across Microsoft 365 workloads.
-
----
-
-# Repository Structure
-
-```text
-Lab-03-Microsoft-Teams-Chat-DLP/
-│
-├── README.md
-├── architecture.png
-└── screenshots/
-    ├──01-policy-name.png
-    ├──02-policy-locations.png
-    ├──03-rule-condition.png
-    ├──04-rule-actions.png
-    ├──05-user-notifications.png
-    ├──06-policy-review.png
-    ├──07-policy-sync-completed.png
-    ├──08-compose-sensitive-message.png
-    ├──09-policy-tip-displayed.png
-    ├──10-message-blocked.png
-    ├──11-teams-chat-result.png
-    ├──12-alert-generated.png
-    ├──13-alert-details.png
-    └──14-activity-explorer.png
-```
 
 ---
 
