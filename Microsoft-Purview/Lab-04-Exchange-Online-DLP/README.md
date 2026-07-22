@@ -232,7 +232,7 @@ These artifacts allow security analysts to validate policy enforcement and inves
 
 ## 2️⃣ Configure Exchange Online Location
 
-![](screenshots/02-Policy-Locations.png)
+![](screenshots/02-Policy-Locations..png)
 
 ---
 
