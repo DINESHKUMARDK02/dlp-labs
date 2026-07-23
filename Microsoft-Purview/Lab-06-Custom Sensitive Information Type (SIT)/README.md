@@ -1092,11 +1092,6 @@ By combining custom data classification with automated policy enforcement and ce
 
 Cybersecurity Engineer | Microsoft Purview | Microsoft 365 Security | Data Loss Prevention
 
-### Connect with Me
-
-- GitHub: https://github.com/DINESHKUMARDK02
-- LinkedIn: *(Add your LinkedIn profile URL here)*
-
 ---
 
 <p align="center">
